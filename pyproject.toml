@@ -60,3 +60,5 @@ jsonschema = "^4.0.0"
 
 [tool.poetry.scripts]
 sherlock = 'sherlock_project.sherlock:main'
+python3 sherlock hackerman1337
+
